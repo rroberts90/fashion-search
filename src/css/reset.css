@@ -1020,6 +1020,14 @@ caption {
   }
 }
 
+/*** MY RESETS
+
+
+***/
+
+a, a:hover, a:active, a:visited, a:focus {
+    text-decoration:none;
+}
 /*
  * Navigation
  */
